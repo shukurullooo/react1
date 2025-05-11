@@ -1,0 +1,95 @@
+   
+.card_wrapper_pro{
+    margin-top: 80px;
+    display: grid;
+    gap: 20px;
+
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+   
+    
+}
+
+.card_wrapper{
+
+    padding: 20px;
+}
+.card__title{
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: 0%;
+color: #000000;
+
+}
+.card__title_smool{
+font-weight: 400;
+font-size: 13px;
+line-height: 19px;
+letter-spacing: 0%;
+color: #7A7A7A;
+
+}
+.card__acc{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #F5F5F5;
+}
+.acc__title_card{
+font-weight: 400;
+font-size: 11px;
+line-height: 35px;
+letter-spacing: 0%;
+color: #999999;
+
+}
+.card__name{
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+letter-spacing: 2px;
+text-align: center;
+color: #000000;
+margin-top: 80px    ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

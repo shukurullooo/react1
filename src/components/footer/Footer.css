@@ -1,0 +1,50 @@
+.footer__Bg {
+    background-image: url('../../assets/IMAGE\ \(15\).svg');
+    background-size: cover;
+    background-position: center;
+    height: 378px;
+    position: relative; /* muhim */
+  }
+  
+  .title_fuute_inpuut {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    color: white;
+    text-align: center;
+  }
+  .title__fuuter{
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+
+  }
+  .inp_fuuter{
+    width: 375px;
+    height: 50px;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border: none;
+    text-align: center;
+
+  }
+  .btn__fuuter{
+    width: 125px;
+    height: 50px;
+    left: 375px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    background: #ffffff22;
+    border: #ffffff22;
+    color: white;
+    
+    
+
+  }
+  .title__fuuter{
+    margin-bottom: 30px;
+  }
